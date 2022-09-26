@@ -8,6 +8,6 @@
 	<title>Creación de Nuevo producto</title>
 </head>
 <body>
-	
+	<button>Agregar producto</button>
 </body>
 </html>	
